@@ -134,7 +134,8 @@ footer {
   .header, .headerTitle, .headerSubTitle {
     text-align: center;
   }
-  .hero__image{
+  .content{
+    width: 90%;
     margin-left: auto;
     margin-right: auto;
   }
@@ -148,7 +149,8 @@ footer {
 }
 
 @media screen and (min-width: 768px) and (max-width: 849px) {
-  .hero__image{
+  .content{
+    width: 90%;
     margin-left: auto;
     margin-right: auto;
   }
